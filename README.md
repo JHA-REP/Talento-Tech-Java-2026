@@ -11,7 +11,11 @@ Sistema de gestión de productos y pedidos desarrollado en Java.
 ## Estructura del Proyecto
 
 src/com/techlab/
+
   excepciones/   # Excepciones de negocio personalizadas
+
   pedidos/       # Entidades y servicios de pedidos
+  
   principal/     # Clase principal, consola y menús
+  
   productos/     # Entidades y servicios de productos
